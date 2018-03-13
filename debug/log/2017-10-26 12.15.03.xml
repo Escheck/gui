@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-10-26 12:15:26" timeOfAgreement="2.0473463333333332E-4" bids="0" domain="etc/templates/partydomain/party_domain.xml" lastAction="null" runNumber="0" finalOutcome="Reservation" errors="Caught exception. Agent [Agent Smith] crashed. Last known action = null. Emergency outcome: (rvA, rvB).. Details: java.lang.Exception: unknown action by agent Agent Smith" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Agent Smith" discount="1.0" agentClass="agents.anac.y2010.AgentSmith.AgentSmith" utilspace="etc/templates/partydomain/party1_utility.xml" Opponent-agentName="Meta-Agent 2013" Opponent-agentClass="agents.anac.y2013.MetaAgent.MetaAgent" Opponent-utilspace="etc/templates/partydomain/party3_utility.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Meta-Agent 2013" discount="1.0" agentClass="agents.anac.y2013.MetaAgent.MetaAgent" utilspace="etc/templates/partydomain/party3_utility.xml" Opponent-agentName="Agent Smith" Opponent-agentClass="agents.anac.y2010.AgentSmith.AgentSmith" Opponent-utilspace="etc/templates/partydomain/party1_utility.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

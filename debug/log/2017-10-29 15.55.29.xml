@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-10-29 15:59:12" timeOfAgreement="1.0" bids="0" domain="etc/templates/pie/pie_domain.xml" lastAction="(Offer  bid:Bid[Pie: a1000, ])" runNumber="0" finalOutcome="Reservation" errors="JudgeTimeout: negotiation was timed out because agent is in loop or failed compiling" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Strictly Monotonic Concession Agent" discount="1.0" agentClass="timeIndependantAgents.StrictlyMonotonicAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Strictly Monotonic Concession Agent" Opponent-agentClass="timeIndependantAgents.StrictlyMonotonicAgent" Opponent-utilspace="etc/templates/pie/pie_B.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Strictly Monotonic Concession Agent" discount="1.0" agentClass="timeIndependantAgents.StrictlyMonotonicAgent" utilspace="etc/templates/pie/pie_B.xml" Opponent-agentName="Strictly Monotonic Concession Agent" Opponent-agentClass="timeIndependantAgents.StrictlyMonotonicAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

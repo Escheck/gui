@@ -1,0 +1,13 @@
+<a>
+<NegotiationOutcome currentTime="2018-03-13 12:14:44" timeOfAgreement="0.003799851616666667" bids="1001" domain="etc/templates/OneIssue/OneIssue.xml" lastAction="(Accept  bid:Bid[FirstIssue: a501, ])" runNumber="0" finalOutcome="Reservation" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/OneIssue/OneIssue_util1.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/OneIssue/OneIssue_util2.xml" finalUtility="0.5" discountedUtility="0.5" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.5" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/OneIssue/OneIssue_util2.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/OneIssue/OneIssue_util1.xml" finalUtility="0.5" discountedUtility="0.5" bestAcceptableBid="0.5" bestDiscountedAccepableBid="0.003789499572222222" maxUtility="1.0" normalizedUtility="0.5" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 
+<NegotiationOutcome currentTime="2018-03-13 12:17:58" timeOfAgreement="0.002545254055555555" bids="1001" domain="etc/templates/OneIssue/OneIssue.xml" lastAction="(Accept  bid:Bid[FirstIssue: a499, ])" runNumber="0" finalOutcome="Reservation" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/OneIssue/OneIssue_util2.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/OneIssue/OneIssue_util1.xml" finalUtility="0.5" discountedUtility="0.5" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.5" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/OneIssue/OneIssue_util1.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/OneIssue/OneIssue_util2.xml" finalUtility="0.5" discountedUtility="0.5" bestAcceptableBid="0.5" bestDiscountedAccepableBid="0.002543802527777778" maxUtility="1.0" normalizedUtility="0.5" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

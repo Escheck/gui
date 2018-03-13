@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2018-02-08 13:15:57" timeOfAgreement="0.20259597949444444" bids="0" domain="etc/templates/pie/pie_domain.xml" lastAction="(EndNegotiation)" runNumber="0" finalOutcome="Reservation" errors="Agent [Least-Cost-Issue Agent] sent EndNegotiation, so the negotiation ended without agreement" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Least-Cost-Issue Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Least-Cost-Issue Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/pie/pie_B.xml" finalUtility="0.3" discountedUtility="0.3" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.3" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Least-Cost-Issue Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/pie/pie_B.xml" Opponent-agentName="Least-Cost-Issue Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

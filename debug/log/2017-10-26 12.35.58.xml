@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-10-26 12:36:36" timeOfAgreement="0.0" bids="0" domain="etc/templates/ItexvsCypressDomain/ItexvsCypress_domain.xml" lastAction="null" runNumber="0" finalOutcome="Reservation" errors="Caught exception. Agent [Gangster] crashed. Last known action = null. Emergency outcome: (rvA, rvB).. Details: java.lang.IllegalArgumentException: AgentID =null" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Gangster" discount="1.0" agentClass="agents.anac.y2014.Gangster.Gangster" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml" Opponent-agentName="Gahboninho V3" Opponent-agentClass="agents.anac.y2011.Gahboninho.Gahboninho" Opponent-utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Gahboninho V3" discount="1.0" agentClass="agents.anac.y2011.Gahboninho.Gahboninho" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml" Opponent-agentName="Gangster" Opponent-agentClass="agents.anac.y2014.Gangster.Gangster" Opponent-utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

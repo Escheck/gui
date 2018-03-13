@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repository fileName="domainrepository.xml">
+    <items>
+        <agentRepItems/>
+        <partyRepItems/>
+        <domainRepItem>
+            <domainRepItem url="file:etc/templates/pie/pie_domain.xml">
+                <profile url="file:etc/templates/pie/pie_A.xml"/>
+                <profile url="file:etc/templates/pie/pie_B.xml"/>
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/ItexvsCypressDomain/ItexvsCypress_domain.xml">
+                <profile url="file:etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml"/>
+                <profile url="file:etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml"/>
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/OneIssue/OneIssue.xml">
+                <profile url="file:etc/templates/OneIssue/OneIssue_util1.xml"/>
+                <profile url="file:etc/templates/OneIssue/OneIssue_util2.xml"/>
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/TwoIssues/TwoIssues.xml">
+                <profile url="file:etc/templates/TwoIssues/TwoIssues_util1.xml"/>
+                <profile url="file:etc/templates/TwoIssues/TwoIssues_util2.xml"/>
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/MultiIssues/MultiIssues.xml">
+                <profile url="file:etc/templates/MultiIssues/MultiIssues_util1.xml"/>
+                <profile url="file:etc/templates/MultiIssues/MultiIssues_util2.xml"/>
+            </domainRepItem>
+        </domainRepItem>
+        <protocolRepItem/>
+        <multiPartyProtocolRepItem/>
+    </items>
+</repository>

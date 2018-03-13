@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2018-03-12 09:46:05" timeOfAgreement="1.327820388888889E-4" bids="1" domain="etc/templates/new/new.xml" lastAction="(Accept  bid:Bid[asdf: 1, ])" runNumber="0" finalOutcome="Reservation" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/new/new_util2.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/new/new_util1.xml" finalUtility="1.0" discountedUtility="1.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="1.0" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Lexicographic Agent" discount="1.0" agentClass="timeIndependantAgents.LexicographicAgent" utilspace="etc/templates/new/new_util1.xml" Opponent-agentName="Lexicographic Agent" Opponent-agentClass="timeIndependantAgents.LexicographicAgent" Opponent-utilspace="etc/templates/new/new_util2.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

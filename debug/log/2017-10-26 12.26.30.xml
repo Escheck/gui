@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-10-26 12:27:47" timeOfAgreement="0.0" bids="0" domain="etc/templates/ItexvsCypressDomain/ItexvsCypress_domain.xml" lastAction="null" runNumber="0" finalOutcome="Reservation" errors="Caught exception. Agent [Simp�tico] crashed. Last known action = null. Emergency outcome: (rvA, rvB).. Details: java.lang.NullPointerException" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Simp�tico" discount="1.0" agentClass="agents.anac.y2014.SimpaticoAgent.Simpatico" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml" Opponent-agentName="Agent_K2" Opponent-agentClass="agents.anac.y2011.AgentK2.Agent_K2" Opponent-utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Agent_K2" discount="1.0" agentClass="agents.anac.y2011.AgentK2.Agent_K2" utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_ItexBReserve00.xml" Opponent-agentName="Simp�tico" Opponent-agentClass="agents.anac.y2014.SimpaticoAgent.Simpatico" Opponent-utilspace="etc/templates/ItexvsCypressDomain/ItexvsCypress_CypressAReserve00.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

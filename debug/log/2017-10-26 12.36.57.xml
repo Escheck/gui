@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-10-26 12:39:58" timeOfAgreement="0.0" bids="0" domain="etc/templates/pie/pie_domain.xml" lastAction="null" runNumber="0" finalOutcome="Reservation" errors="Caught exception. Agent [Simp�tico] crashed. Last known action = null. Emergency outcome: (rvA, rvB).. Details: java.lang.NullPointerException" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Simp�tico" discount="1.0" agentClass="agents.anac.y2014.SimpaticoAgent.Simpatico" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Simple Tit for Tat PN" Opponent-agentClass="agents.SimpleTitForTatPN" Opponent-utilspace="etc/templates/pie/pie_B.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Simple Tit for Tat PN" discount="1.0" agentClass="agents.SimpleTitForTatPN" utilspace="etc/templates/pie/pie_B.xml" Opponent-agentName="Simp�tico" Opponent-agentClass="agents.anac.y2014.SimpaticoAgent.Simpatico" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 
